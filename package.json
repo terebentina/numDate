@@ -1,0 +1,22 @@
+{
+  "name": "numdate",
+  "version": "0.0.1",
+  "description": "A floating date library with a functionality similar to moment.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terebentina/numDate.git"
+  },
+  "keywords": [
+    "date"
+  ],
+  "author": "Dan Caragea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/terebentina/numDate/issues"
+  },
+  "homepage": "https://github.com/terebentina/numDate#readme"
+}
